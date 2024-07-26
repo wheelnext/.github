@@ -1,6 +1,8 @@
 # wheel-next
 
-This repo is a place to build proof of concepts for python wheels in a public open space. The intention is to only add code that will be able to be merged with upstream projects, e.g. python, warehouse, scikit-build-core. Thus licenses and contributor license agreements will be goverened by the target project.
+This repo is a place to collaborate on proofs of concept for python wheels in a public open space. It is meant to organize work across many repos, and to present collections of projects that demonstrate new proposed functionality in the Python ecosystem.
+
+Any forks here will either be be merged with upstream projects, or abandoned as experiments. Licenses and contributor license agreements for any forks will be goverened by the parent project.
 
 Current topics of interest:
 * Additional metadata to capture different builds of otherwise-identical python packages (such as compiling with different shared library support)
