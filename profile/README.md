@@ -32,6 +32,7 @@ Current topics of interest:
 * Improving compression
   * https://discuss.python.org/t/making-the-wheel-format-more-flexible-for-better-compression-speed/3810
 
+<!--
 ## 🐍 Contributors
 
 <table>
@@ -76,3 +77,4 @@ Current topics of interest:
         </tr>
     </tbody>
 </table>
+-->
