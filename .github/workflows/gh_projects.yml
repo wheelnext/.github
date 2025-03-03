@@ -5,10 +5,16 @@ on:
     types:
       - opened
       - labeled
+      - assigned
+      - reopened
   pull_request:
     types:
       - opened
       - labeled
+      - assigned
+      - reopened
+      - ready_for_review
+      - converted_to_draft
 
 jobs:
   add-to-project:
@@ -20,3 +26,4 @@ jobs:
           project-url: https://github.com/orgs/wheelnext/projects/4
           github-token: ${{ secrets.CI_TOKEN }}
           labeled: tracked
+          values: Triage
