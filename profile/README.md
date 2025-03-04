@@ -16,6 +16,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="[https://github.com/wheelnext/wheelnext/blob/main/LICENSE](https://github.com/orgs/wheelnext/projects/4/)">
+      <img src="https://img.shields.io/badge/Project_Manegement-Github_Board-lightblue?style=for-the-badge" /> 
+  </a>
+</p>
+
 # What is WheelNext
 
 This repo is a place to collaborate on proofs of concept for python wheels in a public open space. It is meant to organize work across many repos, and to present collections of projects that demonstrate new proposed functionality in the Python ecosystem.
